@@ -1,7 +1,6 @@
 # UI-Customization
 Windows 11 UI Customization Batch File 1.00
 
-Author: Y.G
 Version: Patch 1.00
 
 Description
